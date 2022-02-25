@@ -1,0 +1,7 @@
+name: supermarket_sales
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - jupyter
